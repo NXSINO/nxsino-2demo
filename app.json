@@ -1,18 +1,18 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "nxsino2demo",
+    "description": "nxsino2demo",
+    "keywords": ["nxsino"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "5f7da448-ec25-4bac-8a5a-ed7d94b1531e"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://www.nxsino.com",
+    "repository": "https://github.com/NXSINO/nxsino-2demo",
     "stack": "container"
 }
